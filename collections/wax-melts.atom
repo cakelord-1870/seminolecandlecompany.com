@@ -1,0 +1,411 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://seminolecandlecompany.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://seminolecandlecompany.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://seminolecandlecompany.com/collections/wax-melts.atom"/>
+  <title>Seminole Candle Company</title>
+  <updated>2019-01-18T14:14:44-05:00</updated>
+  <author>
+    <name>Seminole Candle Company</name>
+  </author>
+  <entry>
+    <id>https://seminolecandlecompany.com/products/1588787118124</id>
+    <published>2019-01-18T14:14:44-05:00</published>
+    <updated>2019-01-18T14:14:44-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://seminolecandlecompany.com/products/wax-melts-1"/>
+    <title>Wax Melts</title>
+    <s:type>Custom Bundle</s:type>
+    <s:vendor>Custom Bundle</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0016/2984/7596/products/bundle_10bba2bc-41e3-469f-ba56-0ca68e6c4a02.png?v=1588947025"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Custom Bundle<br>
+        <strong>Type: </strong>Custom Bundle<br>
+        <strong>Price: </strong>
+            25.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><style>
+    .mce-content-body .bundle-builder-customer-text {
+        display: none
+    }
+    .shopify-section .bundle-bundler-admin-text {
+        display: none
+    }
+</style>
+<div class="bundle-builder-customer-text">
+    <strong>Do not</strong> add this product to your cart.
+    Please <a id="bundle-builder-app--bundle-link" href="/apps/bundles/bundle/8540">visit the bundle page</a> to edit.
+</div>
+<noscript><a href="/apps/bundles/bundle/8540"></a></noscript>
+<div class="bundle-bundler-admin-text">
+    <p>This is a dummy product and <strong>must not be deleted or altered</strong>.</p>
+    <p>Dummy products are essential for the Bundle Builder app to function.</p>
+    <p>Learn more here: https://docs.bundlebuilder.app/reference/dummy-products</p>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>bundle-builder-dummy</s:tag>
+    <s:tag>bundle-builder-dummy-latest</s:tag>
+    <s:variant>
+      <id>https://seminolecandlecompany.com/products/1588787118124</id>
+      <title>Default Title</title>
+      <s:price currency="USD">25.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://seminolecandlecompany.com/products/1588787118124</id>
+      <title>Bundle #1609267</title>
+      <s:price currency="USD">25.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://seminolecandlecompany.com/products/1588787118124</id>
+      <title>Bundle #1615725</title>
+      <s:price currency="USD">25.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://seminolecandlecompany.com/products/1588787118124</id>
+      <title>Bundle #1621514</title>
+      <s:price currency="USD">25.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://seminolecandlecompany.com/products/1588787118124</id>
+      <title>Bundle #1630724</title>
+      <s:price currency="USD">25.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://seminolecandlecompany.com/products/1588787118124</id>
+      <title>Bundle #1630733</title>
+      <s:price currency="USD">25.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://seminolecandlecompany.com/products/1588787118124</id>
+      <title>Bundle #1630873</title>
+      <s:price currency="USD">25.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://seminolecandlecompany.com/products/1588787118124</id>
+      <title>Bundle #1630876</title>
+      <s:price currency="USD">25.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://seminolecandlecompany.com/products/1588787118124</id>
+      <title>Bundle #1630902</title>
+      <s:price currency="USD">25.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://seminolecandlecompany.com/products/1588787118124</id>
+      <title>Bundle #1006624</title>
+      <s:price currency="USD">25.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://seminolecandlecompany.com/products/1588787118124</id>
+      <title>Bundle #1630919</title>
+      <s:price currency="USD">25.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://seminolecandlecompany.com/products/1588787118124</id>
+      <title>Bundle #1639921</title>
+      <s:price currency="USD">25.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://seminolecandlecompany.com/products/1588787118124</id>
+      <title>Bundle #1639952</title>
+      <s:price currency="USD">25.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://seminolecandlecompany.com/products/1588787118124</id>
+      <title>Bundle #1534683</title>
+      <s:price currency="USD">25.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://seminolecandlecompany.com/products/1588787118124</id>
+      <title>Bundle #1761666</title>
+      <s:price currency="USD">25.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://seminolecandlecompany.com/products/1588787118124</id>
+      <title>Bundle #1777460</title>
+      <s:price currency="USD">25.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://seminolecandlecompany.com/products/1588787118124</id>
+      <title>Bundle #1783386</title>
+      <s:price currency="USD">25.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://seminolecandlecompany.com/products/1588787118124</id>
+      <title>Bundle #2012631</title>
+      <s:price currency="USD">25.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://seminolecandlecompany.com/products/1588787118124</id>
+      <title>Bundle #2126508</title>
+      <s:price currency="USD">25.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://seminolecandlecompany.com/products/1588787118124</id>
+      <title>Bundle #2189477</title>
+      <s:price currency="USD">25.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://seminolecandlecompany.com/products/1588787118124</id>
+      <title>Bundle #2492136</title>
+      <s:price currency="USD">25.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://seminolecandlecompany.com/products/1588787118124</id>
+      <title>Bundle #2634072</title>
+      <s:price currency="USD">25.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://seminolecandlecompany.com/products/1588787118124</id>
+      <title>Bundle #2669011</title>
+      <s:price currency="USD">25.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://seminolecandlecompany.com/products/1588787118124</id>
+      <title>Bundle #2890633</title>
+      <s:price currency="USD">25.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://seminolecandlecompany.com/products/1588787118124</id>
+      <title>Bundle #2912525</title>
+      <s:price currency="USD">25.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://seminolecandlecompany.com/products/1588787118124</id>
+      <title>Bundle #3031127</title>
+      <s:price currency="USD">25.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://seminolecandlecompany.com/products/1588787118124</id>
+      <title>Bundle #3084663</title>
+      <s:price currency="USD">25.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://seminolecandlecompany.com/products/1588787118124</id>
+      <title>Bundle #3084757</title>
+      <s:price currency="USD">25.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://seminolecandlecompany.com/products/1588787118124</id>
+      <title>Bundle #3112184</title>
+      <s:price currency="USD">25.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://seminolecandlecompany.com/products/1588787118124</id>
+      <title>Bundle #3534572</title>
+      <s:price currency="USD">25.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://seminolecandlecompany.com/products/1588787118124</id>
+      <title>Bundle #3608175</title>
+      <s:price currency="USD">25.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://seminolecandlecompany.com/products/1588787118124</id>
+      <title>Bundle #3617544</title>
+      <s:price currency="USD">25.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://seminolecandlecompany.com/products/1588787118124</id>
+      <title>Bundle #3617658</title>
+      <s:price currency="USD">25.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://seminolecandlecompany.com/products/1584229122092</id>
+    <published>2019-01-16T10:28:58-05:00</published>
+    <updated>2019-01-16T10:28:58-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://seminolecandlecompany.com/products/wax-melts"/>
+    <title>Wax Melts</title>
+    <s:type></s:type>
+    <s:vendor>Seminole Candle Company</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0016/2984/7596/products/FMLMelt.jpg?v=1616188968"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Seminole Candle Company<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            5.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>Enjoy your favorite Seminole Candle Company fragrances without the worry of leaving a burning candle unattended! Designed for use with electric warmers, our highly fragrant wax melts will deliver over 48 hours of aromatherapy per cube. That's over 288 hours per 6-pack!  </span></p>
+<h3><span>Tips &amp; Tricks:</span></h3>
+<ul>
+<li>Mix, match, and melt to create your own scent. One of our favorite blends is Lemon Verbena with Cucumber Mint -  it's so clean and refreshing! For something more earthy, Burnished Leather and White Jasmine are also incredible when combined.</li>
+<li>Save the packaging to easily change fragrances.</li>
+<ul>
+<li>Melt wax completely in warming dish.</li>
+<li>Pour melted wax back into original packaging to reform wax.</li>
+<li>Clean dish with a paper towel {while it's still warm}.</li>
+</ul>
+<li>Due to risk of overheating, it's advised to not burn candles once they've  burned down to 1/2" from the bottom of the vessel. Recycle that remaining wax and packaging by making your own wax melts!</li>
+<ul>
+<li>Warm vessel on the candle warming plate {if it's a 2 in 1 warmer} OR on a cookie sheet in the oven {lowest heat setting} until wax is completely melted. Do NOT microwave container candles - wick tabs are metal.</li>
+<li>Pour wax into package and let cool. Once solidified, store in a cool place for later use.</li>
+</ul>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://seminolecandlecompany.com/products/1584229122092</id>
+      <title>Burnished Leather</title>
+      <s:price currency="USD">5.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://seminolecandlecompany.com/products/1584229122092</id>
+      <title>Cucumber Mint</title>
+      <s:price currency="USD">5.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://seminolecandlecompany.com/products/1584229122092</id>
+      <title>Empire Apple</title>
+      <s:price currency="USD">5.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://seminolecandlecompany.com/products/1584229122092</id>
+      <title>Herb Garden</title>
+      <s:price currency="USD">5.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://seminolecandlecompany.com/products/1584229122092</id>
+      <title>Lemon Verbena</title>
+      <s:price currency="USD">5.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://seminolecandlecompany.com/products/1584229122092</id>
+      <title>Tidal Pool</title>
+      <s:price currency="USD">5.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://seminolecandlecompany.com/products/1584229122092</id>
+      <title>White Jasmine</title>
+      <s:price currency="USD">5.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://seminolecandlecompany.com/products/1584229122092</id>
+      <title>Fresh Mint + Lavender</title>
+      <s:price currency="USD">5.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://seminolecandlecompany.com/products/1584229122092</id>
+      <title>Pineapple + Sage</title>
+      <s:price currency="USD">5.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://seminolecandlecompany.com/products/1584229122092</id>
+      <title>Geranium + Rose</title>
+      <s:price currency="USD">5.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://seminolecandlecompany.com/products/1584229122092</id>
+      <title>Ruby Red Grapefruit</title>
+      <s:price currency="USD">5.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

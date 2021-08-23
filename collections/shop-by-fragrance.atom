@@ -1,0 +1,697 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://seminolecandlecompany.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://seminolecandlecompany.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://seminolecandlecompany.com/collections/shop-by-fragrance.atom"/>
+  <title>Seminole Candle Company</title>
+  <updated>2021-04-30T12:22:45-04:00</updated>
+  <author>
+    <name>Seminole Candle Company</name>
+  </author>
+  <entry>
+    <id>https://seminolecandlecompany.com/products/6558098948142</id>
+    <published>2021-04-30T12:22:45-04:00</published>
+    <updated>2021-04-30T12:22:45-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://seminolecandlecompany.com/products/soda-city-saturday"/>
+    <title>Soda City Saturday</title>
+    <s:type></s:type>
+    <s:vendor>Seminole Candle Company</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0016/2984/7596/products/DSC01042.jpg?v=1619797135"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Seminole Candle Company<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            22.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<div data-pm-slice="1 1 []" data-en-clipboard="true" data-mce-fragment="1">"Thou must smell the kettle corn" is #4 in our local Soda City Podcast's episode 3 - The Ten Commandments of Soda City Market. Hannah, the podcast's creator said, "I could be anywhere in the world at any given time and this smell, it could take me straight to Main Street in my mind." She apologized for going all James Taylor on us 😂, but I finished the podcast with inspiration + excitement because I finally knew what I needed to create after thinking on a Soda City themed candle for so long!! Here it is, y'all! Soda City Saturday has a sweet + salty kettle corn scent + a 110 hour burn-time that can transport you to Main St. in your mind any day of the week, anywhere in the world!</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://seminolecandlecompany.com/products/6558098948142</id>
+      <title>Default Title</title>
+      <s:price currency="USD">22.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://seminolecandlecompany.com/products/4455370326062</id>
+    <published>2021-03-19T16:50:54-04:00</published>
+    <updated>2021-03-19T16:50:54-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://seminolecandlecompany.com/products/pineapple-sage-2"/>
+    <title>Pineapple + Sage</title>
+    <s:type></s:type>
+    <s:vendor>Seminole Candle Company</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0016/2984/7596/products/PineappleSageTin.png?v=1616187771"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Seminole Candle Company<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            6.00 - 25.00
+            <a href="https://seminolecandlecompany.com/products/pineapple-sage-2">(3 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<div data-pm-slice="1 1 []" data-en-clipboard="true">
+<span>Our limited edition Pineapple + Sage fragrance is sweet, fruity, and earthy. Rooted in fresh sage leaves and the awe inspiring pineapple fields of Hawaii, this fragrance evokes that “Aloha Friday” feeling of freedom until Monday! </span><span>Available in 4 oz. travel tins, 11 oz., and 21 oz. signature jars. For best results and cleanest burning, wick must be trimmed to 1/4" regularly.</span>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://seminolecandlecompany.com/products/4455370326062</id>
+      <title>4 oz.</title>
+      <s:price currency="USD">6.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://seminolecandlecompany.com/products/4455370326062</id>
+      <title>11 oz.</title>
+      <s:price currency="USD">15.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://seminolecandlecompany.com/products/4455370326062</id>
+      <title>21 oz.</title>
+      <s:price currency="USD">25.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://seminolecandlecompany.com/products/4455335854126</id>
+    <published>2021-03-19T16:50:27-04:00</published>
+    <updated>2021-03-19T16:50:27-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://seminolecandlecompany.com/products/fresh-mint-lavender"/>
+    <title>Fresh Mint + Lavender</title>
+    <s:type></s:type>
+    <s:vendor>Seminole Candle Company</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0016/2984/7596/products/FreshMintLavenderTin.png?v=1616187545"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Seminole Candle Company<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            6.00 - 25.00
+            <a href="https://seminolecandlecompany.com/products/fresh-mint-lavender">(3 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<div data-pm-slice="1 1 []" data-en-clipboard="true">
+<span>Relax and renew with this fresh fragrance! </span>Fresh picked garden mint pairs perfectly with soothing lavender in this limited edition blend. Infused with essential oils, transforming your space into your spa has never been easier.  <span>Available in 4 oz. travel tins, 11 oz., and 21 oz. signature jars. For best results and cleanest burning, wick must be trimmed to 1/4" regularly.</span>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://seminolecandlecompany.com/products/4455335854126</id>
+      <title>4 oz.</title>
+      <s:price currency="USD">6.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://seminolecandlecompany.com/products/4455335854126</id>
+      <title>11 oz.</title>
+      <s:price currency="USD">15.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://seminolecandlecompany.com/products/4455335854126</id>
+      <title>21 oz.</title>
+      <s:price currency="USD">25.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://seminolecandlecompany.com/products/6544031219758</id>
+    <published>2021-03-19T16:16:11-04:00</published>
+    <updated>2021-03-19T16:16:11-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://seminolecandlecompany.com/products/ruby-red-grapefruit"/>
+    <title>Ruby Red Grapefruit</title>
+    <s:type></s:type>
+    <s:vendor>Seminole Candle Company</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0016/2984/7596/products/RubyRedGrapefruitTin.png?v=1616185447"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Seminole Candle Company<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            6.00 - 25.00
+            <a href="https://seminolecandlecompany.com/products/ruby-red-grapefruit">(3 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<div data-pm-slice="1 1 []" data-en-clipboard="true">
+<meta charset="utf-8">Ruby Red Grapefruit is an energetic, tart, and fruity fragrance that's perfect for warm weather months. This effervescent citrus aroma has notes of tangerine, ozone, and ginger to brighten up your space and mood. </div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://seminolecandlecompany.com/products/6544031219758</id>
+      <title>4 oz.</title>
+      <s:price currency="USD">6.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://seminolecandlecompany.com/products/6544031219758</id>
+      <title>11 oz.</title>
+      <s:price currency="USD">15.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://seminolecandlecompany.com/products/6544031219758</id>
+      <title>21 oz.</title>
+      <s:price currency="USD">25.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://seminolecandlecompany.com/products/6543970107438</id>
+    <published>2021-03-19T16:14:26-04:00</published>
+    <updated>2021-03-19T16:14:26-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://seminolecandlecompany.com/products/geranium-rose"/>
+    <title>Geranium + Rose</title>
+    <s:type></s:type>
+    <s:vendor>Seminole Candle Company</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0016/2984/7596/products/GeraniumRoseTin.png?v=1616185501"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Seminole Candle Company<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            6.00 - 25.00
+            <a href="https://seminolecandlecompany.com/products/geranium-rose">(3 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<div data-pm-slice="1 1 []" data-en-clipboard="true">
+<meta charset="utf-8">Geranium + Rose is indescribably fresh and floral. With notes of lily of the valley, ylang ylang, geranium leaves, and rose, this scent refreshes and renews your space and mindset!  </div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://seminolecandlecompany.com/products/6543970107438</id>
+      <title>4 oz.</title>
+      <s:price currency="USD">6.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://seminolecandlecompany.com/products/6543970107438</id>
+      <title>11 oz.</title>
+      <s:price currency="USD">15.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://seminolecandlecompany.com/products/6543970107438</id>
+      <title>21 oz.</title>
+      <s:price currency="USD">25.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://seminolecandlecompany.com/products/1807890448428</id>
+    <published>2019-05-08T12:44:32-04:00</published>
+    <updated>2019-05-08T12:44:32-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://seminolecandlecompany.com/products/sandstorm-cinnamon"/>
+    <title>Sandstorm Cinnamon</title>
+    <s:type></s:type>
+    <s:vendor>Seminole Candle Company</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0016/2984/7596/products/SandStormCinnamonSeminolecandleCompanyGamecocks.jpeg?v=1557354348"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Seminole Candle Company<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            22.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>This University of South Carolina officially licensed Gamecocks candle is as spirited as Williams-Brice Stadium on game day - making it the perfect </span><span>alumni, fan, or graduation gift</span><span>! It is a warm, spicy, signature fragrance infused with cinnamon leaf and cassia essential oils. Each candle features 2 all natural cotton wicks and is hand poured in 16 oz. reusable tins,</span><span> </span><span face="helvetica, arial, sans-serif" style="font-family: helvetica, arial, sans-serif;">providing over 100 hours of cinnamon filled aromatherapy!</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://seminolecandlecompany.com/products/1807890448428</id>
+      <title>Default Title</title>
+      <s:price currency="USD">22.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://seminolecandlecompany.com/products/1786604453932</id>
+    <published>2019-04-24T10:56:40-04:00</published>
+    <updated>2019-04-24T10:56:40-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://seminolecandlecompany.com/products/citronella"/>
+    <title>Citronella</title>
+    <s:type></s:type>
+    <s:vendor>Seminole Candle Company</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0016/2984/7596/products/image_91a29d56-63b3-4dad-b863-96f311c3577f.jpg?v=1616078694"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Seminole Candle Company<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            22.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h3><br></h3>
+<p>Keep mosquitoes at bay with our 16 oz. triple wicked Citronella candle! This isn't your average insect repelling candle, because it's a handcrafted blend of essential and fragrance oils created by Seminole Candle Company. Within minutes of lighting, your outdoor area is illuminated by aromatherapeutic flames that drive insects away.</p>
+<h3>Fragrance Notes:</h3>
+<p>Top: Orange and lemon</p>
+<p>Middle: Eucalyptus </p>
+<p>Bottom: Citronella</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://seminolecandlecompany.com/products/1786604453932</id>
+      <title>Default Title</title>
+      <s:price currency="USD">22.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://seminolecandlecompany.com/products/764676833324</id>
+    <published>2018-04-07T15:23:13-04:00</published>
+    <updated>2018-04-07T15:23:13-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://seminolecandlecompany.com/products/empire-apple"/>
+    <title>Empire Apple</title>
+    <s:type></s:type>
+    <s:vendor>Seminole Candle Company</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0016/2984/7596/products/Empire_Apple_Tin.jpg?v=1599776489"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Seminole Candle Company<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            6.00 - 25.00
+            <a href="https://seminolecandlecompany.com/products/empire-apple">(3 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Empire apples are red, sweet, juicy, crunchy hybrids of McIntosh and Red Delicious apples from the "Empire State," New York. This candle smells like the crisp first bite of a freshly picked Empire apple. Our delicious apple fragrance makes the perfect gift for educators, daycare providers, new home owners, or yourself! Available in 4 oz. travel tins, 11 oz., and 21 oz. <span>signature</span> jars. For best results and cleanest burning, wick must be trimmed to 1/4" regularly.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://seminolecandlecompany.com/products/764676833324</id>
+      <title>4 oz</title>
+      <s:price currency="USD">6.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://seminolecandlecompany.com/products/764676833324</id>
+      <title>11 oz</title>
+      <s:price currency="USD">15.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://seminolecandlecompany.com/products/764676833324</id>
+      <title>21 oz</title>
+      <s:price currency="USD">25.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://seminolecandlecompany.com/products/762387169324</id>
+    <published>2018-04-07T15:23:13-04:00</published>
+    <updated>2018-04-07T15:23:13-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://seminolecandlecompany.com/products/herb-garden-soy-candle"/>
+    <title>Herb Garden</title>
+    <s:type></s:type>
+    <s:vendor>Seminole Candle Company</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0016/2984/7596/products/Herb_Garden_Tin.jpg?v=1599776717"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Seminole Candle Company<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            6.00 - 25.00
+            <a href="https://seminolecandlecompany.com/products/herb-garden-soy-candle">(3 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Similar to bouquet garni in culinary arts, this candle is comprised of fresh herbs and flowers creating a balanced, clean, herbal fragrance. Sprigs of rosemary and hints of fresh lavender evoke feelings of contentment, peace, calm, and relaxation. Available in 4 oz. travel tins, 11 oz., and 21 oz. <span>signature</span> jars. For best results and cleanest burning, wick must be trimmed to 1/4" regularly.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://seminolecandlecompany.com/products/762387169324</id>
+      <title>4 oz</title>
+      <s:price currency="USD">6.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://seminolecandlecompany.com/products/762387169324</id>
+      <title>11 oz</title>
+      <s:price currency="USD">15.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://seminolecandlecompany.com/products/762387169324</id>
+      <title>21 oz</title>
+      <s:price currency="USD">25.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://seminolecandlecompany.com/products/762344734764</id>
+    <published>2018-04-07T15:23:13-04:00</published>
+    <updated>2018-04-07T15:23:13-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://seminolecandlecompany.com/products/tidal-pool-soy-candle"/>
+    <title>Tidal Pool</title>
+    <s:type></s:type>
+    <s:vendor>Seminole Candle Company</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0016/2984/7596/products/Tidal_Pool_Tin.jpg?v=1599777191"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Seminole Candle Company<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            6.00 - 25.00
+            <a href="https://seminolecandlecompany.com/products/tidal-pool-soy-candle">(3 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Tidal pools are temporary, like beach vacation days. Giving yourself a day at the beach is as simple as lighting this incredible candle. It's fresh and clean smelling, with notes of sea salt and ocean air.  Available in 4 oz. travel tins, 11 oz., and 21 oz. classic jars. For best results and cleanest burning, wick must be trimmed to 1/4" regularly.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://seminolecandlecompany.com/products/762344734764</id>
+      <title>4 oz</title>
+      <s:price currency="USD">6.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://seminolecandlecompany.com/products/762344734764</id>
+      <title>11 oz</title>
+      <s:price currency="USD">15.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://seminolecandlecompany.com/products/762344734764</id>
+      <title>21 oz</title>
+      <s:price currency="USD">25.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://seminolecandlecompany.com/products/762327892012</id>
+    <published>2018-04-07T15:23:13-04:00</published>
+    <updated>2018-04-07T15:23:13-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://seminolecandlecompany.com/products/carolina-jasmine-soy-candle"/>
+    <title>White Jasmine</title>
+    <s:type></s:type>
+    <s:vendor>Seminole Candle Company</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0016/2984/7596/products/White_Jasmine_Tin.jpg?v=1599777343"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Seminole Candle Company<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            6.00 - 25.00
+            <a href="https://seminolecandlecompany.com/products/carolina-jasmine-soy-candle">(3 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Light this candle and feel as if you're in a southern garden surrounded by jasmine blossoms. Its <span>unmistakable</span><span></span> sweet and floral aroma is ever-present in the Carolina's hot summer months, but with Seminole Candle Company's signature candle, you can savor its beauty all year long! Available in 4 oz. travel tins, 11 oz., and 21 oz. <span>signature</span> jars. For best results and cleanest burning, wick must be trimmed to 1/4" regularly. </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://seminolecandlecompany.com/products/762327892012</id>
+      <title>4 oz</title>
+      <s:price currency="USD">6.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://seminolecandlecompany.com/products/762327892012</id>
+      <title>11 oz</title>
+      <s:price currency="USD">15.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://seminolecandlecompany.com/products/762327892012</id>
+      <title>21 oz</title>
+      <s:price currency="USD">25.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://seminolecandlecompany.com/products/762324221996</id>
+    <published>2018-04-07T15:23:13-04:00</published>
+    <updated>2018-04-07T15:23:13-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://seminolecandlecompany.com/products/cucumber-mint-soy-candle"/>
+    <title>Cucumber Mint</title>
+    <s:type></s:type>
+    <s:vendor>Seminole Candle Company</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0016/2984/7596/products/Cucumber_Mint_Tin.jpg?v=1599776379"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Seminole Candle Company<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            6.00 - 25.00
+            <a href="https://seminolecandlecompany.com/products/cucumber-mint-soy-candle">(3 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>This light and refreshing blend smells exactly like fresh mint and cucumbers, transforming your space into your spa! Relax and refresh with this incredible candle. Available in 4 oz. travel tins, 11 oz., and 21 oz. <span>signature</span> jars. For best results and cleanest burning, wick must be trimmed to 1/4" regularly.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://seminolecandlecompany.com/products/762324221996</id>
+      <title>4 oz</title>
+      <s:price currency="USD">6.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://seminolecandlecompany.com/products/762324221996</id>
+      <title>11 oz</title>
+      <s:price currency="USD">15.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://seminolecandlecompany.com/products/762324221996</id>
+      <title>21 oz</title>
+      <s:price currency="USD">25.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://seminolecandlecompany.com/products/762305380396</id>
+    <published>2018-04-07T15:23:13-04:00</published>
+    <updated>2018-04-07T15:23:13-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://seminolecandlecompany.com/products/burnished-leather-soy-candle"/>
+    <title>Burnished Leather</title>
+    <s:type></s:type>
+    <s:vendor>Seminole Candle Company</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0016/2984/7596/products/Burnished_Leather_Tin.jpg?v=1599775922"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Seminole Candle Company<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            6.00 - 25.00
+            <a href="https://seminolecandlecompany.com/products/burnished-leather-soy-candle">(3 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>This warm, complex, and earthy fragrance is a signature blend of leather and charred cedar with subtle, sweet notes of brown sugar. A favorite in both warm and cool seasons, this candle is indescribably appealing. Available in 4 oz. travel tins, 11 oz., and 21 oz. <span>signature</span> jars. For best results and cleanest burning, wick must be trimmed to 1/4" regularly. </p>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://seminolecandlecompany.com/products/762305380396</id>
+      <title>4 oz</title>
+      <s:price currency="USD">6.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://seminolecandlecompany.com/products/762305380396</id>
+      <title>11 oz</title>
+      <s:price currency="USD">15.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://seminolecandlecompany.com/products/762305380396</id>
+      <title>21 oz</title>
+      <s:price currency="USD">25.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://seminolecandlecompany.com/products/762211991596</id>
+    <published>2018-04-07T15:23:13-04:00</published>
+    <updated>2018-04-07T15:23:13-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://seminolecandlecompany.com/products/lemon-verbena-soy-candle"/>
+    <title>Lemon Verbena</title>
+    <s:type></s:type>
+    <s:vendor>Seminole Candle Company</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0016/2984/7596/products/Lemon_Verbena_Tin.jpg?v=1599776866"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Seminole Candle Company<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            6.00 - 25.00
+            <a href="https://seminolecandlecompany.com/products/lemon-verbena-soy-candle">(3 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Fresh and clean smelling, this bright citrus fragrance smells exactly like fresh lemon verbena leaves. It's the perfect candle to light while cleaning, after cooking, or anytime you need an uplifting, energetic accompaniment to your day. Available in 4 oz. travel tins, 11 oz., and 21 oz. <span>signature</span> jars. For best results and cleanest burning, wick must be trimmed to 1/4" regularly.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://seminolecandlecompany.com/products/762211991596</id>
+      <title>4 oz</title>
+      <s:price currency="USD">6.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://seminolecandlecompany.com/products/762211991596</id>
+      <title>11 oz</title>
+      <s:price currency="USD">15.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://seminolecandlecompany.com/products/762211991596</id>
+      <title>21 oz</title>
+      <s:price currency="USD">25.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

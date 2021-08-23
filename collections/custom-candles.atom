@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://seminolecandlecompany.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://seminolecandlecompany.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://seminolecandlecompany.com/collections/custom-candles.atom"/>
+  <title>Seminole Candle Company</title>
+  <updated>2019-06-03T16:59:04-04:00</updated>
+  <author>
+    <name>Seminole Candle Company</name>
+  </author>
+  <entry>
+    <id>https://seminolecandlecompany.com/products/1860095148076</id>
+    <published>2019-06-03T16:59:04-04:00</published>
+    <updated>2019-06-03T16:59:04-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://seminolecandlecompany.com/products/custom-silver-tins"/>
+    <title>Custom Silver Tins</title>
+    <s:type></s:type>
+    <s:vendor>Seminole Candle Company</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0016/2984/7596/products/wedding-425.jpg?v=1600790950"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Seminole Candle Company<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            144.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2><span>Minimum: <span style="color: #0b5394;">24 Candles</span> </span></h2>
+<h2><span>Turnaround Time: <span style="color: #0b5394;">2 Weeks</span>  </span></h2>
+<meta charset="utf-8">
+<p><span>With a highly fragrant 30+ hour burn time, our signature silver tins are the perfect accent to your event. Pick your fragrance, and let us know a few details around your event. Send us your 2x2 round label design if you'd like, or take advantage of our complimentary design services to create a one-of-a-kind candle! </span>You can also book a consultation at our West Columbia, SC shop by clicking<span> </span><a href="https://seminolecandlecompany.com/products/shop-the-source">HERE! </a></p>
+<p><span>Did you know that your olfactory sense, or sense of smell, is directly linked to memory? We remember fragrances more accurately than visual memories, and can be instantly transported back to an experience or memory with a simple whiff. Make your wedding, special event, venue, or retail space unforgettable by partnering with Seminole Candle Company!</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://seminolecandlecompany.com/products/1860095148076</id>
+      <title>Default Title</title>
+      <s:price currency="USD">144.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://seminolecandlecompany.com/products/1860245520428</id>
+    <published>2019-06-03T16:58:15-04:00</published>
+    <updated>2019-06-03T16:58:15-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://seminolecandlecompany.com/products/custom-gold-tins"/>
+    <title>Custom Gold Tins</title>
+    <s:type></s:type>
+    <s:vendor>Seminole Candle Company</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0016/2984/7596/products/GoldTins.png?v=1600790540"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Seminole Candle Company<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            192.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2><span>Minimum: <span style="color: #0b5394;">24 Candles </span></span></h2>
+<h2><span>Turnaround Time: <span style="color: #0b5394;">2 Weeks</span>  </span></h2>
+<meta charset="utf-8">
+<p><span>With a highly fragrant 30+ hour burn time, our signature gold tins are the perfect accent to your event. Pick your fragrance, and let us know a few details around your event. Send us your 2x2 round label design if you'd like, or take advantage of our complimentary design services to create a one-of-a-kind candle! </span>You can also book a consultation at our West Columbia, SC shop by clicking<span> </span><a href="https://seminolecandlecompany.com/products/shop-the-source">HERE! </a></p>
+<p><span>Did you know that your olfactory sense, or sense of smell, is directly linked to memory? We remember fragrances more accurately than visual memories, and can be instantly transported back to an experience or memory with a simple whiff. Make your wedding, special event, venue, or retail space unforgettable by partnering with Seminole Candle Company!</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://seminolecandlecompany.com/products/1860245520428</id>
+      <title>Default Title</title>
+      <s:price currency="USD">192.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>
